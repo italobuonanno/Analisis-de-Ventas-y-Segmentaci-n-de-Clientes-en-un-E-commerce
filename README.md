@@ -45,9 +45,10 @@ El análisis combina:
 
 ## 🖼️ Visualizaciones  
 
-![Segmentación RFM](./images/segmentacion_rfm.png)  
+![Segmentación RFM](./imagenes/Top%20200%20de%20Cantidad%20De%20Clientes%20por%20Segmento.png)  
 
-![Matriz de confusión Random Forest](./images/matriz_confusion_rf.png)  
+![Matriz de Confusión](./imagenes/Matriz%20De%20Confusion.png)  
+
 
 ---
 
