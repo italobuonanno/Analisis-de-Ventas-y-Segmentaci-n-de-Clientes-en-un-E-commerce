@@ -42,13 +42,10 @@ El análisis combina:
 - El modelo **Random Forest** alcanzó un **alto nivel de precisión** en la predicción de categorías de clientes  
 
 ---
+##  Visualizaciones
 
-## 🖼️ Visualizaciones  
-
-![Segmentación RFM](./imagenes/Top%20200%20de%20Cantidad%20De%20Clientes%20por%20Segmento.png)  
-
-![Matriz de Confusión](./imagenes/Matriz%20De%20Confusion.png)  
-
+![Segmentación RFM](./imagenes/top200_clientes.png)
+![Matriz de Confusión](./imagenes/matriz_confusion.png)
 
 ---
 
