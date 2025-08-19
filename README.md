@@ -49,9 +49,8 @@ El análisis combina:
 
 ---
 
-## 📑 Informe y Presentación  
-- 📄 [Informe en PDF](./Informe_Analisis_Ventas_Segmentacion.pdf)  
-- 🎥 [Presentación en PowerPoint](./Presentacion_Analisis_Ventas_Segmentacion.pdf)  
+- [Informe en PDF](./Informe_Analisis_de_Ventas_y_Segmentacion_de_Clientes_en_un_E-commerce.pdf)
+- [Presentación en PowerPoint](./Presentacion_Analisis_de_Ventas_y_Segmentacion_de_Clientes_en_un_E-commerce.pdf)
 
 ---
 
