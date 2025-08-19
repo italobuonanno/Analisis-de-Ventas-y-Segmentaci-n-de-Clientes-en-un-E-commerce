@@ -44,9 +44,10 @@ El análisis combina:
 ---
 
 ## 🖼️ Visualizaciones  
-- **Top productos más vendidos (bruto vs neto)**  
-- **Distribución de clientes por segmento RFM**  
-- **Matriz de confusión del modelo Random Forest**  
+
+![Segmentación RFM](./images/segmentacion_rfm.png)  
+
+![Matriz de confusión Random Forest](./images/matriz_confusion_rf.png)  
 
 ---
 
